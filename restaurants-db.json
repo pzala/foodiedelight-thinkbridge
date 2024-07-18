@@ -1,0 +1,59 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "The Gourmet Kitchen",
+      "description": "A fine dining experience with international cuisine.",
+      "location": "123 Culinary Ave, Foodtown",
+      "cuisine": "International",
+      "openingHours": "Mon-Fri: 6pm - 10pm, Sat-Sun: 12pm - 10pm",
+      "contactNumber": "1234567890",
+      "email": "info@gourmetkitchen.com",
+      "website": "https://www.gourmetkitchen.com"
+    },
+    {
+      "id": "2",
+      "name": "Pasta Palace",
+      "description": "Authentic Italian pasta and more.",
+      "location": "456 Spaghetti Rd, Little Italy",
+      "cuisine": "Italian",
+      "openingHours": "Daily: 11am - 11pm",
+      "contactNumber": "+0987654321",
+      "email": "contact@pastapalace.com",
+      "website": "https://www.pastapalace.com"
+    },
+    {
+      "id": "3",
+      "name": "Sushi Central",
+      "description": "Fresh sushi made to order.",
+      "location": "789 Sashimi St, Japan Town",
+      "cuisine": "Japanese",
+      "openingHours": "Mon-Sat: 11am - 10pm, Closed on Sundays",
+      "contactNumber": "+1122334455",
+      "email": "reservations@sushicentral.com",
+      "website": "https://www.sushicentral.com"
+    },
+    {
+      "id": "4",
+      "name": "Burger Haven",
+      "description": "Gourmet burgers and craft beers.",
+      "location": "321 Burger Blvd, Grill City",
+      "cuisine": "American",
+      "openingHours": "Daily: 12pm - 12am",
+      "contactNumber": "+5566778899",
+      "email": "hello@burgerhaven.com",
+      "website": "https://www.burgerhaven.com"
+    },
+    {
+      "id": "5",
+      "name": "Curry Corner",
+      "description": "Spicy and flavorful Indian curries.",
+      "location": "654 Masala Dr, Spice Town",
+      "cuisine": "Indian",
+      "openingHours": "Tue-Sun: 11:30am - 10:30pm, Closed on Mondays",
+      "contactNumber": "+6677889900",
+      "email": "support@currycorner.com",
+      "website": "https://www.currycorner.com"
+    }
+  ]
+}
